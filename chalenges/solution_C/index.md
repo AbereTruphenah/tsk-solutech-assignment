@@ -45,6 +45,7 @@ You may use your **phone**, **laptop webcam**, or any recording tool you’re co
 Once the upload is complete:
 - Copy the **video link**
 - Paste the link 
+Video Link: **https://youtu.be/xtUY9TG4nVc**
 
 🚫 Please **do not set it to Private**, as we won’t be able to view it.
 
